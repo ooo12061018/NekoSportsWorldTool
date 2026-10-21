@@ -1,4 +1,4 @@
-<h1 style="font-size: 48px;">别倒卖了😭</h1>
+<h1 style="font-size: 48px;">🈲倒卖</h1>
 
 # NekoSportsWorldTool
 
@@ -9,6 +9,8 @@
 运动世界校园版全协议自动化工具，纯 Rust 单文件，GUI / CLI 双模式。
 
 > ⚠️ 仅供学习研究，请勿用于违反学校规定的场景，后果自负。
+
+> ⚠️ 参考原作者源码2创--->https://github.com/YanamiNeko/NekoSportsWorldTool  
 
 ## 功能
 
