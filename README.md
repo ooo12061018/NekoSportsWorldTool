@@ -23,7 +23,7 @@
 
 ## 界面
 
-![GUI](docs/screenshot.png)
+![GUI](docs/GUI界面.jpg)
 
 ## 技术特点
 
